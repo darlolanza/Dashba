@@ -14,11 +14,11 @@ HBmonitor tested on Debian v9 and v10
 This is version HBMonitor V2 
 
     cd /opt
-    git clone https://github.com/sp2ong/HBMonv2.git
+    git clone https://github.com/darlolanza/HBMonv2_OLD.git
     cd HBMonv2
     chmod +x install.sh
     ./install.sh
-    cp config-SAMPLE.py config.py
+    cp config_SAMPLE.py config.py
     edit config.py and change what you necessary
     cp utils/hbmon.service /lib/systemd/system/
     systemctl enable hbmon
