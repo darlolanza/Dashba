@@ -14,8 +14,8 @@ HBmonitor tested on Debian v9 and v10
 This is version HBMonitor V2 
 
     cd /opt
-    git clone https://github.com/darlolanza/HBMonv2_OLD.git
-    cd HBMonv2
+    git clone https://github.com/darlolanza/Dashba.git
+    cd Dashba
     chmod +x install.sh
     ./install.sh
     cp config_SAMPLE.py config.py
